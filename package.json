@@ -11,6 +11,7 @@
   "dependencies": {
     "@arco-design/web-react": "^2.63.1",
     "@arco-plugins/webpack-react": "^1.4.9",
+    "ahooks": "^3.8.0",
     "klinecharts": "^9.8.10",
     "next": "14.2.5",
     "react": "^18",

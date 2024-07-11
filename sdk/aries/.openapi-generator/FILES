@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+apis/AriesServiceApi.ts
+apis/index.ts
+index.ts
+models/AriesPingResponse.ts
+models/ProtobufAny.ts
+models/RpcStatus.ts
+models/index.ts
+runtime.ts

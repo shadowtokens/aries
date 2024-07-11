@@ -22,5 +22,5 @@ export const KLine = () => {
         }
     }, [])
 
-    return <div id="chart" style={{width: 600, height: 600}}/>
+    return <div id="chart" style={{width: '100vw', height: 800}}/>
 }
